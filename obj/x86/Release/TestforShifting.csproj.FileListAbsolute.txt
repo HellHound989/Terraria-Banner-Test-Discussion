@@ -1,0 +1,8 @@
+C:\Users\joseph.gregorie.ext\AppData\Local\Temporary Projects\TestforShifting\bin\Release\TestforShifting.exe
+C:\Users\joseph.gregorie.ext\AppData\Local\Temporary Projects\TestforShifting\bin\Release\TestforShifting.pdb
+C:\Users\joseph.gregorie.ext\AppData\Local\Temporary Projects\TestforShifting\obj\x86\Release\TestforShifting.exe
+C:\Users\joseph.gregorie.ext\AppData\Local\Temporary Projects\TestforShifting\obj\x86\Release\TestforShifting.pdb
+C:\Users\joseph.gregorie.ext\documents\visual studio 2010\Projects\TestforShifting\TestforShifting\obj\x86\Release\TestforShifting.exe
+C:\Users\joseph.gregorie.ext\documents\visual studio 2010\Projects\TestforShifting\TestforShifting\obj\x86\Release\TestforShifting.pdb
+C:\Users\joseph.gregorie.ext\documents\visual studio 2010\Projects\TestforShifting\TestforShifting\bin\Release\TestforShifting.exe
+C:\Users\joseph.gregorie.ext\documents\visual studio 2010\Projects\TestforShifting\TestforShifting\bin\Release\TestforShifting.pdb

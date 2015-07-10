@@ -1,0 +1,4 @@
+C:\Users\joseph.gregorie.ext\AppData\Local\Temporary Projects\TestforShifting\bin\Debug\TestforShifting.exe
+C:\Users\joseph.gregorie.ext\AppData\Local\Temporary Projects\TestforShifting\bin\Debug\TestforShifting.pdb
+C:\Users\joseph.gregorie.ext\AppData\Local\Temporary Projects\TestforShifting\obj\x86\Debug\TestforShifting.exe
+C:\Users\joseph.gregorie.ext\AppData\Local\Temporary Projects\TestforShifting\obj\x86\Debug\TestforShifting.pdb
